@@ -71,13 +71,17 @@ Each role has specific capabilities like adding/editing rooms, managing users, b
 
 ---
 
-🧠 Object-Oriented Principles in Action
-   🧩 Principle	|   ✅ Where it's Applied
-   Encapsulation	|   Private fields in Booking, User, Resource, etc., with public getters/setters
-   Abstraction	   |   Business logic is hidden inside service classes like BookingService, UserService
-   Modularity	   |   Clear separation between Entity, Service, Repository (DatabaseClass), and UI layer
-   Inheritance	   |   Can be extended in future (e.g., base User class for Admin, RegularUser, etc.)
-   Polymorphism	|   Potential use via method overriding or interfaces for resource or user actions
+
+
+## 🧠 Object-Oriented Principles in Action
+
+| 🧩 Principle     | ✅ Where it's Applied                                                            |
+|------------------|-----------------------------------------------------------------------------------|
+| **Encapsulation** |Private fields in Booking, User, Resource, etc., with public getters/setters      |
+| **Abstraction**   | Business logic is hidden inside service classes like BookingService, UserService |
+| **Modularity**    |Clear separation between Entity, Service, Repository (DatabaseClass), and UI layer|
+| **Inheritance**   |  Can be extended in future (e.g., base User class for Admin, RegularUser, etc.)  |
+| **Polymorphism**  | Potential use via method overriding or interfaces for resource or user actions   |
 
 ---
 
