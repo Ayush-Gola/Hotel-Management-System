@@ -28,25 +28,8 @@ Each role has specific capabilities like adding/editing rooms, managing users, b
 ---
 
 ## 🧱 Project Structure
-HotelManagementSystem/
-├── DataBase/
-│ ├── DatabaseClass.java
-├── EntityPackage/
-│ ├── Admin.java
-│ ├── Booking.java
-│ ├── RegularUser.java
-│ ├── Resource.java
-│ ├── ResourceManager.java
-│ ├── User.java
-├── Service/
-│ ├── AdminServices.java
-│ ├── BookingService.java
-│ ├── ResourceManagerService.java
-│ ├── ResourceService.java
-│ ├── UserService.java
-├── Driver/
-│ ├── Driverclass.java (or your main launcher class)
-└── README.md
+![image](https://github.com/user-attachments/assets/14c7200d-1dae-4000-a686-6649621c44d0)
+
 
 
 ---
@@ -120,9 +103,24 @@ HotelManagementSystem/
 
 ---
 
-🏷️ License
-This project is open-source and free to use for educational purposes.
+---
 
-🙋‍♂️ Author
-Ayush-Gola ayushgola851@gmail.com
+
+## 📜 License
+
+📝 This project is open-source and free to use for educational purposes.
+
+---
+
+
+---
+
+
+## 🙋‍♂️ Author
+
+**Ayush Gola**  
+📧 [ayushgola851@gmail.com](mailto:ayushgola851@gmail.com)  
+👨‍💻 Passionate about building clean Java apps with real-world utility.
+
+---
 
