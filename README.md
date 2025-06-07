@@ -103,7 +103,7 @@ Each role has specific capabilities like adding/editing rooms, managing users, b
 
 ---
 
----
+
 
 
 ## 📜 License
@@ -113,7 +113,7 @@ Each role has specific capabilities like adding/editing rooms, managing users, b
 ---
 
 
----
+
 
 
 ## 🙋‍♂️ Author
@@ -121,6 +121,4 @@ Each role has specific capabilities like adding/editing rooms, managing users, b
 **Ayush Gola**  
 📧 [ayushgola851@gmail.com](mailto:ayushgola851@gmail.com)  
 👨‍💻 Passionate about building clean Java apps with real-world utility.
-
----
 
